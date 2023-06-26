@@ -1,2 +1,4 @@
 -Djavax.net.debug=ssl
 -Djavax.net.debug=all
+
+-Djava.net.useSystemProxies=true
